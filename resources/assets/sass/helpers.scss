@@ -1,0 +1,91 @@
+/*
+* Paddings
+*/
+.p-0 { padding: 0 !important; }
+.p-1 { padding: 1rem !important; }
+
+.pt-0 { padding-top: 0 !important; }
+.pt-025 { padding-top: .25rem !important; }
+.pt-05 { padding-top: .5rem !important; }
+.pt-075 { padding-top: .75rem !important; }
+.pt-1 { padding-top: 1rem !important; }
+.pt-2 { padding-top: 2rem !important; }
+
+.pb-0 { padding-bottom: 0 !important; }
+.pb-025 { padding-bottom: .25rem !important; }
+.pb-05 { padding-bottom: .5rem !important; }
+.pb-075 { padding-bottom: .75rem !important; }
+.pb-1 { padding-bottom: 1rem !important; }
+
+.pl-0 { padding-left: 0 !important; }
+.pl-025 { padding-left: .25rem !important; }
+.pl-05 { padding-left: .5rem !important; }
+.pl-075 { padding-left: .75rem !important; }
+.pl-1 { padding-left: 1rem !important; }
+
+.pr-0 { padding-right: 0 !important; }
+.pr-025 { padding-right: .25rem !important; }
+.pr-05 { padding-right: .5rem !important; }
+.pr-075 { padding-right: .75rem !important; }
+.pr-1 { padding-right: 1rem !important; }
+.pr-2 { padding-right: 2rem !important; }
+
+/*
+* Margins
+*/
+.m-0 { margin: 0 !important; }
+.m-1 { margin: 1rem !important; }
+
+.mt-0 { margin-top:  !important; }
+.mt-025 { margin-top: .25rem !important; }
+.mt-05 { margin-top: .5rem !important; }
+.mt-075 { margin-top: .75rem !important; }
+.mt-1 { margin-top: 1rem !important; }
+
+.mb-0 { margin-bottom: 0 !important; }
+.mb-025 { margin-bottom: .25rem !important; }
+.mb-05 { margin-bottom: .5rem !important; }
+.mb-075 { margin-bottom: .75rem !important; }
+.mb-1 { margin-bottom: 1rem !important; }
+
+.ml-0 { margin-left: 0 !important; }
+.ml-025 { margin-left: .25rem !important; }
+.ml-05 { margin-left: .5rem !important; }
+.ml-075 { margin-left: .75rem !important; }
+.ml-1 { margin-left: 1rem !important; }
+
+.mr-0 { margin-right: 0 !important; }
+.mr-025 { margin-right: .25rem !important; }
+.mr-05 { margin-right: .5rem !important; }
+.mr-075 { margin-right: .75rem !important; }
+.mr-1 { margin-right: 1rem !important; }
+
+/*
+* Flexbox
+*/
+.flex { display: flex !important; }
+
+.flex-1 { flex: 1 !important; }
+
+.flex-wrap { flex-wrap: wrap; }
+
+.flex-align-items-center {
+    align-items: center;
+}
+
+/*
+* Width
+*/
+.w-100p { width: 100% !important; }
+
+/*
+* Height
+*/
+.h-100p { height: 100% !important; }
+
+/*
+* Misc
+*/
+.white-space-nowrap {
+    white-space: nowrap;
+}
